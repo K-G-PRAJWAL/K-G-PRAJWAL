@@ -4,7 +4,7 @@
   <h3  style="color: grey; font-family: Brush Script MT, Brush Script Std, cursive">Full-Stack Software Developer and Big Data Engineer</h3>
 
   <p>
-    <div><h3 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Find me on:</h3></div>
+    <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Find me on:</h5></div>
     <a href="https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:prajuganesh1999@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
     <a href="https://medium.com/@KGPrajwal"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="GMail"></a>
@@ -12,7 +12,7 @@
   </p>
 
   <div>
-    <div><h3 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Github Stats:</h3></div>
+    <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Github Stats:</h5></div>
     <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,fafafa,fafafa,fafafa,fafafa&title_color=000000">
   </div>
 
