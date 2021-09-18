@@ -1,4 +1,5 @@
-<div style="text-align: center; margin: 10px; background-image: url("https://images.unsplash.com/photo-1524055988636-436cfa46e59e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"); position: absolute">
+<div style="position: relative; color: orange;">
+<div style="text-align: center; margin: 10px;">
   <h1 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Hi, I am K G Prajwal!</h1>
 
   <h3  style="color: grey; font-family: Brush Script MT, Brush Script Std, cursive">Full-Stack Software Developer and Big Data Engineer</h3>
@@ -13,7 +14,7 @@
 
   <div>
     <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Github Stats:</h5></div>
-    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,ff8602,ff8602,fafafa,fafafa,fafafa,3349fe,fafafa,fafafa,fafafa,fafafa,17c000&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,edc9f4,fafafa,edc9f4&title_color=000000">
   </div>
 
   <div>
@@ -42,4 +43,5 @@
     <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
+</div>
 </div>
