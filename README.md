@@ -22,7 +22,7 @@
   </div>
 
   <div>
-  <div><h3 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Skills:</h3></div>
+  <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Skills:</h5></div>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
