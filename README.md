@@ -1,4 +1,5 @@
-<div style="position: relative; color: orange;">
+<iframe src="https://giphy.com/embed/2QpnSwLwr9fkDtiN4m" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DronaHQ-nocode-lowcode-dronahq-2QpnSwLwr9fkDtiN4m">via GIPHY</a></p>
+![]("https://giphy.com/embed/2QpnSwLwr9fkDtiN4m")
 <div style="text-align: center; margin: 10px;">
   <h1 style="color: black; font-family: 'Roboto', sans-serif">Hi, I am K G Prajwal!</h1>
 
@@ -14,7 +15,7 @@
 
   <div>
     <div><h5 style="color: black; font-family: 'Roboto', sans-serif">Github Stats:</h5></div>
-    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,edc9f4,fafafa,edc9f4&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,31abb5,fafafa,31abb5&title_color=000000">
   </div>
 
   <div>
@@ -44,4 +45,4 @@
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
 </div>
-</div>
+
