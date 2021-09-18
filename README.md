@@ -1,4 +1,4 @@
-<img style="position: relative;" src="https://images.unsplash.com/photo-1524055988636-436cfa46e59e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80">
+![](https://images.unsplash.com/photo-1524055988636-436cfa46e59e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80")
 
 <div style="position: relative; text-align: center; margin: 10px;">
   <h1 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Hi, I am K G Prajwal!</h1>
@@ -7,7 +7,6 @@
 
   <p>
     <div><h3 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Find me on:</h3></div>
-    <a href="https://www.instagram.com/___prajwal___/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/___prajwal___%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:prajuganesh1999@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
     <a href="https://medium.com/@KGPrajwal"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="GMail"></a>
