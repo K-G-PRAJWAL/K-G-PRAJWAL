@@ -13,7 +13,7 @@
 
   <div>
     <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Github Stats:</h5></div>
-    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,fafafa,fafafa,fafafa,fafafa&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,ff8602,ff8602,fafafa,fafafa,fafafa,3349fe,fafafa,fafafa,fafafa,fafafa,17c000&title_color=000000">
   </div>
 
   <div>
