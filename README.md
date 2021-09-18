@@ -1,11 +1,11 @@
 <div style="position: relative; color: orange;">
 <div style="text-align: center; margin: 10px;">
-  <h1 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Hi, I am K G Prajwal!</h1>
+  <h1 style="color: black; font-family: 'Roboto', sans-serif">Hi, I am K G Prajwal!</h1>
 
-  <h3  style="color: grey; font-family: Brush Script MT, Brush Script Std, cursive">Full-Stack Software Developer and Big Data Engineer</h3>
+  <h3  style="color: grey; font-family: 'Roboto', sans-serif">Full-Stack Software Developer and Big Data Engineer</h3>
 
   <p>
-    <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Find me on:</h5></div>
+    <div><h5 style="color: black; font-family: 'Roboto', sans-serif">Find me on:</h5></div>
     <a href="https://www.linkedin.com/in/k-g-prajwal-a6b3b517a/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:prajuganesh1999@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
     <a href="https://medium.com/@KGPrajwal"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="GMail"></a>
@@ -13,7 +13,7 @@
   </p>
 
   <div>
-    <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Github Stats:</h5></div>
+    <div><h5 style="color: black; font-family: 'Roboto', sans-serif">Github Stats:</h5></div>
     <img src="https://github-readme-stats.vercel.app/api?username=K-G-PRAJWAL&show_icons=true&theme=vue&hide=prs,contribs,issues&include_all_commits=true&count_private=true&bg_color=10,edc9f4,fafafa,edc9f4&title_color=000000">
   </div>
 
@@ -23,7 +23,7 @@
   </div>
 
   <div>
-  <div><h5 style="color: black; font-family: Brush Script MT, Brush Script Std, cursive">Skills:</h5></div>
+  <div><h5 style="color: black; font-family: 'Roboto', sans-serif">Skills:</h5></div>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
