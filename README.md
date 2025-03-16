@@ -1,20 +1,30 @@
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Data Engineer @Amazon 🚀</h1>
+      <p style="margin: 0;">
+        🔹 Passionate about building scalable data solutions & cloud architectures.<br>
+        🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & GoLang</b>.<br>
+        🔹 Love <b>Coding, System design, and Web development</b>.
+      </p>
+      <p align="center" style="margin-top: 5px;">
+        <a href="https://github.com/k-g-prajwal">
+          <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        </a>
+        <a href="https://github.com/k-g-prajwal?tab=followers">
+          <img src="https://img.shields.io/github/followers/k-g-prajwal?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+           height="200px" width="280px" 
+           alt="cool gif" 
+           style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" height="270px" width="350px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="cool gif" />
-
-# 🌌 Prajwal | Data Engineer @Amazon 🚀
-
-🔹 Passionate about building scalable data solutions & cloud architectures.  
-🔹 Currently diving deeper into **Open-source, Data engineering, ML/AI & GoLang**.  
-🔹 Love **Coding, System design, and Web development**.
-
-<p align="left">
-  <a href="https://github.com/k-g-prajwal">
-    <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/k-g-prajwal?tab=followers">
-    <img src="https://img.shields.io/github/followers/k-g-prajwal?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-</p>
 
 
 
