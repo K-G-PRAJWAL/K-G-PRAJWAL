@@ -3,9 +3,9 @@
     <td width="70%" valign="top">
       <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Data Engineer @Amazon 🚀</h1>
       <p style="margin: 0;">
-        🔹 Passionate about building scalable data solutions & cloud architectures.<br>
-        🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & GoLang</b>.<br>
-        🔹 Love <b>Coding, System design, and Web development</b>.
+        🔹 Passionate about <b>building scalable data pipeline ETL solutions, data warehousing</b> & <b>cloud architectures</b>.<br>
+        🔹 Currently diving deeper into <b>Open-source, Big Data, Cloud, Gen AI</b> & <b>GoLang</b>.<br>
+        🔹 Love <b>Coding, Building Scalable+Resilient Distributed Software Systems</b> & <b>AI</b>.
       </p>
       <p align="center" style="margin-top: 5px;">
         <a href="https://github.com/k-g-prajwal">
@@ -90,7 +90,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&show_icons=true&theme=merko&hide_border=true&count_private=true" width="25%" />
 </p>
 
 <p align="center">
