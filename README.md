@@ -33,17 +33,17 @@
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue&labelColor=yellow)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -53,12 +53,12 @@
 ![CDK](https://img.shields.io/badge/AWS_CDK-4F230F?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/AWS_Redshift-F50519?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-0C04DE?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&color=orange&labelColor=black)
 ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-447099?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Hudi](https://img.shields.io/badge/Apache_Hudi-007CE2?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=e600ff)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white&labelColor=yellow)
 ![Databricks](https://img.shields.io/badge/Databricks-FC000D?style=for-the-badge&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -74,10 +74,10 @@
 
 ## 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=black&labelColor=orange)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black&labelColor=yellow)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vega&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-F1680D.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -92,24 +92,29 @@
 ---
 
 ## 📊 GitHub Stats & Activity
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&card_width=800"/>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr align="center">
+    <td align="center">
+     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=k-g-prajwal&langs_count=10&layout=donut&card_width=1000&size_weight=0.5&count_weight=0.5"/>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=KGPrajwal&card_width=800"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&show_icons=true&theme=merko&hide_border=true&count_private=true" width="25%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-g-prajwal&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
 
 ---
 
