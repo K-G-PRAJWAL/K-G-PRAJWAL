@@ -92,28 +92,26 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<table align="center">
-  <tr align="center">
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&card_width=800"/>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr align="center">
-    <td align="center">
-     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=k-g-prajwal&langs_count=10&layout=donut&card_width=1000&size_weight=0.5&count_weight=0.5"/>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr align="center">
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=KGPrajwal&card_width=800"/>
-    </td>
-  </tr>
-</table>
 
+<table>
+  <tr>
+    <td>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"  width="50%" height="40% /> </p>
+    </td>
+    <td>
+      <p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=k-g-prajwal" width="50%" height="40%  /></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=k-g-prajwal&langs_count=10&layout=donut&card_width=1000&size_weight=0.5&count_weight=0.5"  width="50%"  height="60% /></p>
+    </td>
+    <td>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=KGPrajwal&card_width=800" width="50%"  height="60%  /></p>
+    </td>
+  </tr>
+</table>
+<p align="center"><img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation  width="50%"  /></p>
 
 
 ---
