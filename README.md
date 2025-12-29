@@ -119,7 +119,9 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/k-g-prajwal" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
-  <a href="mailTo:prajuganesh@yahoo.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
-  <a href="https://github.com/k-g-prajwal" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/k-g-prajwal" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="50" width="60" /></a>
+  <a href="mailTo:prajuganesh@yahoo.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="50" width="60" /></a>
+  <a href="https://github.com/k-g-prajwal" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="50" width="60" /></a>
+   <a href="https://buymeacoffee.com/kgprajwal" target="blank"> <img src="https://www.svgrepo.com/show/341664/buy-me-a-coffee.svg" height="50" width="60" /></a>
 </p>
+
